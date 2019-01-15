@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:ez-vcard 0.10.4
+N:House;Gregory;;Dr;MD
+TEL;TYPE=cell:+30 6945899353
+FN:Dr. Gregory House M.D.
+END:VCARD

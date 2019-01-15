@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="viber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/viber_jar</output-path>
+    <root id="archive" name="viber.jar">
+      <element id="module-output" name="viber" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/mangstadt/vinnie/2.0.2/vinnie-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/ez-vcard/ez-vcard/0.10.4/ez-vcard-0.10.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.6.1/jackson-core-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.21.0.1/sqlite-jdbc-3.21.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/opencsv/opencsv/3.7/opencsv-3.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
